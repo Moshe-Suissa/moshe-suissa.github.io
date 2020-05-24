@@ -1,0 +1,2 @@
+ewriteCond %{HTTP_HOST} ^moshesuissa.com
+RewriteRule ^(.*) http://moshe-suissa.github.io/$1 [P]
