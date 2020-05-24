@@ -552,7 +552,7 @@ svg path {
 p#english {
     max-width: 800px;
     margin-bottom: 30px;
-    font-size: 27px;
+    font-size: 20px;
     font-family: "Raleway", Helvetica, sans-serif;
 }
 @media (max-width: 1180px) {
@@ -753,9 +753,10 @@ p#english {
 }
 #full-slide .banner {
     position: relative;
-    width: 100%;
+    width: 70%;
     height: 100%;
     margin: 0;
+    margin-left: 15%;
     padding: 0;
     list-style: none;
 }
@@ -791,8 +792,8 @@ p#english {
     top: 50%;
     -webkit-transform: translateY(-50%) scale(1);
     transform: translateY(-50%) scale(1);
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     font-size: 28px;
     text-align: center;
     line-height: 60px;
@@ -1242,4 +1243,3 @@ h2#news {
     font-weight: 100;
     text-align: center;
 }
-
