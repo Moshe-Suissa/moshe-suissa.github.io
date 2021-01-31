@@ -1229,8 +1229,8 @@ h2#judaism {
 }
 #three-slide .wrapper .slider2 .current2 {
     left: 50%;
-    -webkit-transform: translate(-50%, -50%) scale(1.1);
-    transform: translate(-50%, -50%) scale(1.1);
+    -webkit-transform: translate(-50%, -50%) scale(1);
+    transform: translate(-50%, -50%) scale(1);
     opacity: 1;
     z-index: 10;
 
